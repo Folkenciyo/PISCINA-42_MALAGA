@@ -1,0 +1,1 @@
+cc -Wall -Wextra -Werror main.c draw_grid.c putchar.c insert_num.c string_to_array.c

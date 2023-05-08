@@ -1,0 +1,4 @@
+-- Eliminar .out del repo
+-- Meter el 03 en ex00 y el 04 en ex01
+-- Crear los headers con vim para poner bien la dirección de correo
+-- Cambiar el nombre de la variable "height" /*/*/*/*/*/
